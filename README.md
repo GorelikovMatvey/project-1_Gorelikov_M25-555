@@ -41,8 +41,7 @@ make project
 
 ## 🎮 Демонстрация игрового процесса
 
-
-
+[![asciicast](https://asciinema.org/a/xPP3YjTKKCzZEDLjEPqcs6cCW.svg)](https://asciinema.org/a/xPP3YjTKKCzZEDLjEPqcs6cCW)
 
 ---
 
